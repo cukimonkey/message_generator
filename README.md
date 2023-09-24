@@ -4,8 +4,7 @@
 Welcome to the Message Generator project! This project utilizes the Quotable API to display random inspirational quotes. It's a simple and elegant way to bring a dose of daily wisdom into your life.
 This was a Portfolio Project with Codecademy.
 
-## Message Generator Live [(Replace with your live demo link if available)
-](https://message-generator-psi.vercel.app/)
+## Message Generator Live (https://message-generator-psi.vercel.app/)
 🛠️ Technologies Used
 HTML5
 CSS3
